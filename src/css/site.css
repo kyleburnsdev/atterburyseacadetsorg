@@ -1,0 +1,24 @@
+/* accessibility */
+#skip a
+{
+    position:absolute;
+    left:-10000px;
+    top:auto;
+    width:1px;
+    height:1px;
+    overflow:hidden;
+}
+
+#skip a:focus
+{
+    position:static;
+    width:auto;
+    height:auto;
+}
+
+/* styling */
+.hero-container {
+    background-image: url("../img/dark-water-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
