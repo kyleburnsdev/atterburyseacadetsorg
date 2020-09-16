@@ -40,4 +40,8 @@
     <loc>http://www.atterburyseacadets.org/volunteering.html</loc>
     <changefreq>daily</changefreq>
    </url>
+   <url>
+    <loc>http://www.atterburyseacadets.org/press.html</loc>
+    <changefreq>daily</changefreq>
+   </url>
 </urlset> 
